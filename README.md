@@ -1,5 +1,5 @@
 Tic Tac Toe Game
-Description
+<h3>Description</h3>
 A simple Tic Tac Toe game built using React, which allows two players to take turns placing X's and O's on a 3x3 grid. The game checks for a winner or declares a draw if all squares are filled. It demonstrates the use of React components, state management, and event handling.
 
 Features
